@@ -21,7 +21,7 @@ The algorithms that are implemented in this project are:
 
 ## The result
 
-The route which was found by the search algorithm that was selected is marked in pink.
+The route which was found by the search algorithm is marked in pink.
 
 ![BFS](https://github.com/dan2443/ai-search-algorithms/blob/main/images/BFS.png)
 
